@@ -1,4 +1,4 @@
-# Local Setup Guide  
+# Local Setup  
 ## Running Nexus as a Private Docker Registry (Local Machine)
 
 ---

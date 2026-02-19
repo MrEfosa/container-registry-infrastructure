@@ -1,4 +1,4 @@
-# Cloud Deployment Guide  
+# Cloud Deployment  
 ## Deploying Nexus on a DigitalOcean Droplet
 
 ---
