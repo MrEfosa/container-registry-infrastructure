@@ -59,7 +59,7 @@ docker run -d \
 
 ```bash
 docker-compose -f docker-compose.yaml
----
+
 ```
 
 ## Step 5: Open Firewall Ports
